@@ -1,0 +1,41 @@
+---------------------------------------------------
+
+The main idea for this project was create an app (game) for mobile operative systems as iOS and Android, usign the lastest tecnologies as Angular, Cordova, NodeJS, npm, etc
+---------------------------------------------------
+
+Description 
+	BA in the ECommerce Team for LA support
+	QA Tasks for new features related to ECommerce
+	DB Analysis to enhance processes.
+	EBussiness developmenet applications using .NET Platform
+
+Responsible:
+	1st Level LA support for the E-Commerce issues.
+	1st level support in the invoice and payments issues
+	Coordinate the changes in the E-Commerce platform.
+	Coordinate the UAT testing every month.
+	Negotiate with the business the best solution from IT perspective.
+	End-Of-Month Support.
+	Monitoring SLAs with ticket alerts.
+
+	
+Achievements:
+	Implementation of new CMS for ECommerce site.
+	Participate at implementations in new countries in LA
+	Development of a new tool that helped to compare SKUs data between JDEdwards and EComm in order to reduce the expenses for operational issues.
+	Development some applications that are used as tools for the sales force.
+
+
+----------------------------------------------------------
+Description:
+	Responsible for the IT area attending support initiatives 	and set up all the devices.
+
+Responsible:
+	Check the devices and their status periodically.
+	Developing modules for production and warehouse using Java and .NET 
+	1st level support on AdminPaq system.
+
+Achievements:
+	Creation of the webpage and support
+	Creation of some modules to extract data from database.
+

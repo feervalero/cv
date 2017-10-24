@@ -1,0 +1,32 @@
+Objetivo: Hacer uso de mis conocimientos adquiridos para aplicarlos en la empresa y aprender a resolver los nuevos problemas que se presenten en un futuro.
+
+.----------------------------------------------------
+
+Puesto: Desarrollador analista Hybrid(Android/iOS)
+Empresa: Freelance
+Oct 2016 - Ene 2017
+
+Proyecto: La lotería Mexicana
+La idea de este proyecto era crear una app (juego) para sistemas operativos móviles (Android, iOS)
+Utilizando tecnologías híbridas para el desarrollo móvil como cordova, nodejs, angular,npm, typescript.
+
+https://play.google.com/store/apps/details?id=io.cordova.loteapp&hl=es
+-----------------------------------------------------
+
+Puesto:E-Commerce Business Analyst
+Empresa:Mary Kay de Mexico
+Oct 2013 - Actual
+
+Como E-Commerce Business Analyst las tareas más importantes se podrían agrupar en 2 rubros, Proyectos y Operacionales, en cuanto a proyectos las tareas eran revisar las necesidades del negocio para poder brindarles los cambios en la aplicación que sean necesarios para su desarrollo óptimo y adecuado a las necesidades de negocio, darle seguimiento a los requerimientos así como hacer el testing de cada nuevo reléase a producción, en cuanto a la parte operativa las tareas eran preparar el paquete a subir a producción mes a mes con actualización de promociones, artículos y de más contenido de la orden de compra en línea.
+
+Logros:
+	Implementacion de nuevo CMS para el sitio de ECommerce
+	Participacion en implementaciones en LATAM
+	DEsarrrollo de una nueva herramienta para comprar datos entre JD Edwards y ECommerce, esto para reducir los gastos operacionales.
+	Desarrollo de applicaciones web que son usadas por la fuerza ed eventas para impulsar su negocio.
+-----------------------------------------------------
+Puesto:Sistemas
+Empresa:Empacadora Treviño
+Dic 2010 - Oct- 2013
+
+Responsable de toda el area de sistemas. Revision de equipos de computo. Como desarrollos locales usando .net, java. Configuracion de AdminPaq para el area de finanzas, ventas, facturacion y nominas
